@@ -1,0 +1,5 @@
+git init
+
+git add file/folder name
+git commit -m "vscode folder added"
+git push -u origin main  
