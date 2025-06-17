@@ -1,6 +1,10 @@
 function Subhead() {
+
+    const username = "My name is Raj"
+
+
     return (
-        <h3>Hello Subho</h3>
+        <h3>Hello Subho {username}</h3>
     )
 }
 
